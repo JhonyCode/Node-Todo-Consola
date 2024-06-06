@@ -11,6 +11,7 @@
 - [Dependencias](#dependencias)
 
 ### 📝 Descripción
+<a name="descripción"></a>
 
 Esta es una aplicación de consola desarrollada en Node.js que permite la gestión de tareas con un CRUD completo. Puedes crear, leer, actualizar y eliminar tareas, así como marcarlas como completadas o no completadas.
 
